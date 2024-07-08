@@ -4,7 +4,7 @@ This repository contains a simple Python program that demonstrates text-to-speec
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10
 - `gTTS` library
 
 ## Installation
@@ -46,10 +46,10 @@ This repository contains a simple Python program that demonstrates text-to-speec
 
 2. Run the script:
     ```sh
-    python script_name.py
+    python first.py
     ```
 
-    Replace `script_name.py` with the name of your Python script file.
+    Replace `first.py` with the name of your Python script file.
 
 ## Example
 
